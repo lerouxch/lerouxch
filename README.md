@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Calvin Le Roux.
-- 👀 I’m interested in cars, gaming, technology and obviously coding. 
+- 👀 I’m interested in cars, gaming, technology data analytics and obviously coding. 
 - 🌱 I’m currently learning Computer Science / Cybersecurity
 - 💞️ I’m looking to collaborate on Python related projects for the time being, i will update once I learn more languages.
 - 📫 How to reach me calvinlrcs@gmail.com
